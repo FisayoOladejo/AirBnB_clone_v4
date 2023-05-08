@@ -13,5 +13,4 @@ This directory contains all classes used to store information for the website.
 * user.py - contains the User class, derived from BaseModel
   * engine directory contains all storage classes:
     * file_storage.py - serializes/deserializes instances to/from a JSON file
-    
-    *db_storage.py - saves and loads instances to/from a MySQL database
+    * db_storage.py - saves and loads instances to/from a MySQL database
