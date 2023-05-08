@@ -2,7 +2,7 @@
 ---
 This directory contains all classes used to store information for the website.
 
-@ File Structure
+# File Structure
 ---
 * base_model.py - The BaseModel class from which future classes will be derived
 * amenity.py - contains the Amenity class, derived from BaseModel
